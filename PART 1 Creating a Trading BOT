@@ -1,0 +1,6 @@
+Crypto-Trading BOTs
+Gathering Datasets from Binance using Websockets
+3 ways to interact with the bot live stream
+	A CMD Line tool - WSCAT
+	A JS to connect to Web UI with WebSockets
+	Using Python Websocket client
